@@ -4,7 +4,7 @@ Freecodecamp Tribute Page Challenge
 <!DOCTYPE html>
 <html>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <style>
   .thick-green-border{
     border-color:grey;
