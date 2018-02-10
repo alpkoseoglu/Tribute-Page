@@ -1,8 +1,8 @@
 # Tribute-Page
 Freecodecamp Tribute Page Challenge
 
-
-
+<!DOCTYPE html>
+<html>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
 <style>
@@ -70,6 +70,7 @@ he rode for 49.,200 km on his bike. Presently riding in South Africa he hasn’t
 
 <p>Additional initiations and projects he is undertaking during his world tour are still in course</p>
 
-<p2 class="font-size" "font-family">"The Man with Iron Horse, pedals for the future to discover and to accomplish his dreams, and lives to share his experiences." <a href="https://www.gurkangenc.com/en/" target="_blank"> Gurkan Genc.</a></p2>
+<p2 class="font-size font-family">"The Man with Iron Horse, pedals for the future to discover and to accomplish his dreams, and lives to share his experiences." <a href="https://www.gurkangenc.com/en/" target="_blank"> Gurkan Genc.</a></p2>
 
   </div>
+</html>
