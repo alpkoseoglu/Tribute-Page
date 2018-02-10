@@ -23,16 +23,16 @@ color:white;
 padding:30px;
 }
 
-h1{ 
+.h1{ 
 font-size:120px;
 margin:20px;
 font-family:"lobster";
 }
 
-img{
+.img{
   margin:50px;  
 }
-p2{
+.p2{
   font-family:"times-new-roman"
 }
 
