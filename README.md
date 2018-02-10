@@ -5,6 +5,7 @@ Freecodecamp Tribute Page Challenge
 <html>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<head>
 <style>
   .thick-green-border{
     border-color:grey;
@@ -37,6 +38,7 @@ font-family:"lobster";
 }
 
 </style>
+</head>
 <body>
 <div class="container-fluid">
 <div class="text-center">
@@ -74,4 +76,5 @@ he rode for 49.,200 km on his bike. Presently riding in South Africa he hasn’t
 
   </div>
   </body>
+  
 </html>
