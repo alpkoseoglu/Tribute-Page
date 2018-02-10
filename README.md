@@ -37,7 +37,7 @@ font-family:"lobster";
 }
 
 </style>
-
+<body>
 <div class="container-fluid">
 <div class="text-center">
 
@@ -73,4 +73,5 @@ he rode for 49.,200 km on his bike. Presently riding in South Africa he hasn’t
 <p2 class="font-size font-family">"The Man with Iron Horse, pedals for the future to discover and to accomplish his dreams, and lives to share his experiences." <a href="https://www.gurkangenc.com/en/" target="_blank"> Gurkan Genc.</a></p2>
 
   </div>
+  </body>
 </html>
